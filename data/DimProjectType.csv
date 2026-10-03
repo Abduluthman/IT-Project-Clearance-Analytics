@@ -1,0 +1,8 @@
+ProjectTypeID,ProjectType,Category,ComplexityFactor,ValueFactor
+PT-01,Software Development,Applications,1,1
+PT-02,Network Infrastructure,Infrastructure,1.15,1.35
+PT-03,Cloud Services,Cloud,1.08,1.2
+PT-04,Cybersecurity,Security,1.24,1.3
+PT-05,Data & Analytics,Data,1.05,1.1
+PT-06,Hardware Procurement,Infrastructure,0.93,1.25
+PT-07,Digital Transformation,Transformation,1.32,1.5

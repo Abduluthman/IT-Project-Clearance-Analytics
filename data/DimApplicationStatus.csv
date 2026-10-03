@@ -1,0 +1,7 @@
+StatusID,Status,StatusGroup
+ST-01,Approved,Completed
+ST-02,Rejected,Completed
+ST-03,Pending Review,Open
+ST-04,Clarification Required,Open
+ST-05,Resubmission Required,Open
+ST-06,Withdrawn,Closed

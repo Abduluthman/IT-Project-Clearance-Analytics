@@ -1,0 +1,41 @@
+OrganisationID,OrganisationName,OrganisationType,Sector,Region,PerformanceBand,PerformanceFactor
+ORG-001,Education Agency 01,Agency,Education,North Central,High Performing,0.803
+ORG-002,Environment Ministry 02,Ministry,Environment,North East,High Performing,0.831
+ORG-003,Environment Authority 03,Authority,Environment,North West,High Performing,0.718
+ORG-004,Health Agency 04,Agency,Health,South East,High Performing,0.833
+ORG-005,Technology Agency 05,Agency,Technology,South South,High Performing,0.727
+ORG-006,Infrastructure Ministry 06,Ministry,Infrastructure,South West,High Performing,0.778
+ORG-007,Infrastructure Commission 07,Commission,Infrastructure,North Central,High Performing,0.753
+ORG-008,Health Authority 08,Authority,Health,North East,Typical,1.11
+ORG-009,Environment Agency 09,Agency,Environment,North West,Typical,1
+ORG-010,Infrastructure Ministry 10,Ministry,Infrastructure,South East,Typical,1.097
+ORG-011,Public Administration Agency 11,Agency,Public Administration,South South,Typical,1.082
+ORG-012,Energy Department 12,Department,Energy,South West,Typical,0.907
+ORG-013,Finance Department 13,Department,Finance,North Central,Typical,1.01
+ORG-014,Energy Agency 14,Agency,Energy,North East,Typical,1.002
+ORG-015,Public Administration Ministry 15,Ministry,Public Administration,North West,Typical,1.098
+ORG-016,Transport Authority 16,Authority,Transport,South East,Typical,0.987
+ORG-017,Transport Agency 17,Agency,Transport,South South,Typical,1.031
+ORG-018,Transport Authority 18,Authority,Transport,South West,Typical,1.044
+ORG-019,Environment Agency 19,Agency,Environment,North Central,Typical,0.94
+ORG-020,Agriculture Authority 20,Authority,Agriculture,North East,Typical,1.105
+ORG-021,Energy Ministry 21,Ministry,Energy,North West,Typical,1.064
+ORG-022,Finance Agency 22,Agency,Finance,South East,Typical,0.918
+ORG-023,Infrastructure Authority 23,Authority,Infrastructure,South South,Typical,1.12
+ORG-024,Energy Ministry 24,Ministry,Energy,South West,Typical,0.991
+ORG-025,Transport Agency 25,Agency,Transport,North Central,Typical,0.942
+ORG-026,Infrastructure Department 26,Department,Infrastructure,North East,Typical,1.12
+ORG-027,Agriculture Authority 27,Authority,Agriculture,North West,Typical,0.912
+ORG-028,Public Administration Agency 28,Agency,Public Administration,South East,Typical,0.913
+ORG-029,Public Administration Ministry 29,Ministry,Public Administration,South South,Typical,1.072
+ORG-030,Infrastructure Commission 30,Commission,Infrastructure,South West,Typical,1.117
+ORG-031,Public Administration Ministry 31,Ministry,Public Administration,North Central,Typical,1.047
+ORG-032,Public Administration Agency 32,Agency,Public Administration,North East,Typical,1.067
+ORG-033,Agriculture Ministry 33,Ministry,Agriculture,North West,Typical,0.912
+ORG-034,Environment Agency 34,Agency,Environment,South East,Needs Improvement,1.379
+ORG-035,Infrastructure Commission 35,Commission,Infrastructure,South South,Needs Improvement,1.563
+ORG-036,Infrastructure Agency 36,Agency,Infrastructure,South West,Needs Improvement,1.405
+ORG-037,Infrastructure Authority 37,Authority,Infrastructure,North Central,Needs Improvement,1.354
+ORG-038,Health Authority 38,Authority,Health,North East,Needs Improvement,1.429
+ORG-039,Agriculture Ministry 39,Ministry,Agriculture,North West,Needs Improvement,1.289
+ORG-040,Public Administration Commission 40,Commission,Public Administration,South East,Needs Improvement,1.388
