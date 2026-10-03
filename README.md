@@ -1,4 +1,3 @@
-```markdown
 # IT Project Clearance & Service Performance Analytics
 
 A portfolio-grade Power BI project focused on service performance, SLA monitoring, project portfolio analysis, process quality, rework, and workflow bottleneck identification.
